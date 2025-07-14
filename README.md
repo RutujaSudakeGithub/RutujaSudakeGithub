@@ -38,8 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaSudake&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" alt="Top Languages"/>
 </p>
 
-### 🔥 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RutujaSudake&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
