@@ -24,9 +24,22 @@
   <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
  <p align="left">
 
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujasudake&show_icons=true&locale=en&layout=compact" alt="rutujasudake" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RutujaSudake&show_icons=true&theme=tokyonight" alt="Rutuja's GitHub Stats"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujasudake&show_icons=true&locale=en" alt="rutujasudake" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RutujaSudake&theme=tokyonight" alt="Rutuja's GitHub Streak"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RutujaSudake&" alt="RutujaSudake" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaSudake&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" alt="Top Languages"/>
+</p>
+
+### 🔥 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RutujaSudake&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
