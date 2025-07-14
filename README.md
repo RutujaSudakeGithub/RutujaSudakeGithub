@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rutuja Dattatray Sudake</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujasudake&label=Profile%20views&color=0e75b6&style=flat" alt="rutujasudake" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **database**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **DSA, c++, core-java**
+- 💬 Ask me about **Data Gathering, Data Cleaning, Data analysis, SQL, Phyton, Tableau**
 
 - 📫 How to reach me **rutujasudake766@gmail.com**
 
